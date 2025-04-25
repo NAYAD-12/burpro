@@ -9,7 +9,7 @@ BL='\e[34m'
 echo -e "
 LOL-SEC
 "
-echo "  This script is made by CyberZest
+echo "  This script is made by LOL-SEC
 "
 
 # Check if Java JDK 19 is installed
